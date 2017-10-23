@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500');
+
+body {
+  text-align:center;
+  font-family: helvetica;
+  margin-top: 5%;
+	font-family: 'Raleway', sans-serif;;
+	
+	background: #455a64;
+	color: white
+	
+}
+
+h1 {
+	letter-spacing: 2px
+}
+
+p {
+	letter-spacing: 1px;
+}
+
+span {
+
+	font-weight: 500;
+	letter-spacing: 2px;
+}
+
+h3 {
+	letter-spacing: 2.5px;
+}
+
+canvas {
+
+}
