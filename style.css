@@ -1,14 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:400,500');
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,800');
 
 body {
-  text-align:center;
-  font-family: helvetica;
-  margin-top: 5%;
+	text-align:center;
+	margin-top: 5%;
 	font-family: 'Raleway', sans-serif;;
-	
-	background: #455a64;
-	color: white
-	
+	background: #dce775;
+	color: #263238;
 }
 
 h1 {
